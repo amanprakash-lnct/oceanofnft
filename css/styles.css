@@ -2177,7 +2177,7 @@ progress {
 }
 .ml2 {
   font-weight: 900;
-  font-size: 3.9em;
+  font-size: 3em;
 }
 
 .ml2 .letter {
@@ -11443,7 +11443,7 @@ header.masthead .masthead-subheading {
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 600;
   line-height: 3.25rem;
   margin-bottom: 4rem;
@@ -11462,10 +11462,21 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
+  }
+  .ml2 {
+    font-weight: 900;
+    font-size: 5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
   }
 }
 #portfolio .portfolio-item {
