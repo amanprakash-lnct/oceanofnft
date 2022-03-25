@@ -11838,7 +11838,7 @@ p {
 }
 
 h1 + p, p + p {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .conthov {
@@ -11881,7 +11881,7 @@ h1 + p, p + p {
   position: relative;
   flex: 0 0 240px;
   width: 240px;
-  height: 320px;
+  height: 300px;
   background-color: #333;
   overflow: hidden;
   border-radius: 15px;
@@ -11938,7 +11938,7 @@ h1 + p, p + p {
 
 .card-info h1 {
   font-family: "Playfair Display";
-  font-size: 36px;
+  font-size: 35px;
   font-weight: 700;
   text-shadow: rgba(0, 0, 0, 0.5) 0 10px 10px;
 }
