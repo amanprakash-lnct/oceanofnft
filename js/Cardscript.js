@@ -74,3 +74,7 @@ Vue.component('card', {
 
 const blog = new Vue({
   el: '#blog' });
+
+
+
+
